@@ -1,4 +1,4 @@
 image:
   repository: nginx
   tag: "latest"
-appMessage: "Hello, Kubernetes!"
+appMessage: "Hello ArgoCD!"

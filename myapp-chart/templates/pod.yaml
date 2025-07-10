@@ -13,3 +13,4 @@ spec:
         configMapKeyRef:
           name: {{ .Release.Name }}-config
           key: APP_MESSAGE
+79cd9a2f06022a8529993221205333ba03e22960

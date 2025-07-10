@@ -5,3 +5,4 @@ metadata:
   namespace: {{ .Release.Namespace }}
 data:
   APP_MESSAGE: {{ .Values.appMessage }}
+79cd9a2f06022a8529993221205333ba03e22960
